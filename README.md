@@ -1,6 +1,8 @@
 # SENG637-A3-20
 
-# Follow this to make changes in the "seng637-a3-20.md" - https://github.com/Abhay2412/SENG438A3/blob/main/README.md
+# 1. read the actual file from professor- seng637-a3.md
+
+# 2. then Follow this sample to make changes in the "seng637-a3-20.md" - https://github.com/Abhay2412/SENG438A3/blob/main/README.md
 
 **SENG 438 - Software Testing, Reliability, and Quality**
 
